@@ -1,3 +1,4 @@
+
 <html lang="kk">
 <head>
     <meta charset="UTF-8">
@@ -304,8 +305,8 @@
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Зат есімнің сөйлемдегі қызметі</h1>
+    <div >
+        <h1> </h1>
         
         <div>
            
